@@ -1,0 +1,29 @@
+## Original Paper
+
+This project is based on the following publication. Please cite it if you use this work:
+
+**Kaplan Berkaya, S., Ak Sivrikoz, I., & Gunal, S. (2020).**  
+Classification models for SPECT myocardial perfusion imaging.  
+*Computers in Biology and Medicine*, 123, 103893.  
+DOI: https://doi.org/10.1016/j.compbiomed.2020.103893
+
+### BibTeX
+```bibtex
+@article{kaplanberkaya2020spect,
+  title={Classification models for SPECT myocardial perfusion imaging},
+  author={Kaplan Berkaya, Selcan and Ak Sivrikoz, Ilknur and Gunal, Serkan},
+  journal={Computers in Biology and Medicine},
+  volume={123},
+  pages={103893},
+  year={2020},
+  publisher={Elsevier},
+  doi={10.1016/j.compbiomed.2020.103893}
+}
+```
+
+## Dataset
+
+The SPECT MPI dataset was released publicly by the original authors:  
+https://www.kaggle.com/selcankaplan/spect-mpi
+
+Please follow Kaggle's terms of use when accessing and using the dataset.
