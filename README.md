@@ -88,7 +88,4 @@ Performance is reported as balanced accuracy to account for class imbalance (42 
 
 The knowledge-based model **exceeded the paper's reported accuracy** despite using only one of the five features (F5) described in the original work — indicating that the ratio of consecutive perfusion areas is the most discriminative single feature for detecting abnormalities.
 
-The DL model underperformed relative to the paper (76% vs 86%), which is consistent with the small training set (~127 images after the 66/17/17 split). The paper itself noted limited training data as the primary constraint on DL performance.
 ---
-
-## Repository Structure
